@@ -1,6 +1,4 @@
-# Olympic-Medals
-
-# Olympics
+# Olympic Medals
 
 # Project motivation and description
 I have always been interested in the Olympics and love watching all the different sports (I am hoping to go to Paris to hopefully witness some events in person this year!). Having watched many different athletes win and lose at many different disciplines, I am wondering whether there are any trends in who wins / loses and whether we can predict which athletes will go on to win a medal. 
